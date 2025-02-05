@@ -1,3 +1,5 @@
+
+# Code takes user input to print anything
 def func(data):
   print(data)
 
