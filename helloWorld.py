@@ -1,2 +1,5 @@
-data = input('Inputted data: ')
-print(data)
+def func(data):
+  print(data)
+
+data = input('Print Something: \n->')
+func(data)
