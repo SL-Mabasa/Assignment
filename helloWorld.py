@@ -1,1 +1,2 @@
-print('Git is awesome!')
+data = input('Inputted data: ')
+print(data)
